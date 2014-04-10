@@ -1,0 +1,23 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+img {
+	width:400px;
+}
+
+h1 {
+	color: orange;
+	text-shadow:10px 10px 5px orange;
+}
+
+#food{
+	background:red;
+}
+#courses{
+	background:blue;
+}
